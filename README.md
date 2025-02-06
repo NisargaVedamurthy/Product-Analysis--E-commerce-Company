@@ -1,4 +1,4 @@
-# Product-Analysis--E-commerce-Company
+# Product-Analysis-E-commerce-Company
 
 The Business Objective is to provide data-driven insights that help an e-commerce startup track key business metrics, optimize 
 performance, and create a compelling investor pitch for securing funding. 
